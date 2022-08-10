@@ -1,0 +1,12 @@
+body {
+  font-family: monoLisa;
+  background-color: #eaf6f6;
+}
+h1 {
+  color: #54bab9;
+}
+hr {
+  border-style: none;
+  border-top: 5px dotted #54bab9;
+  width: 5vw;
+}
